@@ -1,5 +1,5 @@
 # kubectl and helm for CI / CD
-Simple image witch helm  and kubectl installed:
+Simple image with helm  and kubectl installed:
 
 ```
 helm version
@@ -10,4 +10,4 @@ Client Version: version.Info{Major:"1", Minor:"17", GitVersion:"v1.17.0", GitCom
 The connection to the server localhost:8080 was refused - did you specify the right host or port?
 ```
 
-To connect to an existing kubernetes cluster, the kubernetes config must be defined (e.g in `/root/.kube/config`).
+To connect to an existing kubernetes cluster the kubernetes config must be defined (e.g in `/root/.kube/config`).
