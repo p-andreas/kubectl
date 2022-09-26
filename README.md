@@ -19,4 +19,5 @@ To connect to an existing kubernetes cluster the kubernetes config must be defin
 
 ## Versions
 `latest` ... might be a old legacy version (changing latest might break the build scripts)
+
 `kubectl-1.25_helm-v3.10.0` ... see above
